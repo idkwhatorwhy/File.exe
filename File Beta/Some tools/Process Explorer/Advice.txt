@@ -1,0 +1,4 @@
+Here's an advice from Enderman:
+
+Always rename Process Explorer before testing rogues/ransomwares out; they may have an Anti-VM, which checks if there is a Process Explorer in Windows processses by
+name, which may end up by ExitProcess function.
